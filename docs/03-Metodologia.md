@@ -64,6 +64,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 Foram utilizadas as seguintes ferramentas para desenvolvimento do projeto:
 
+- Editor de código.
 - Github. 
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (_wireframing_)
