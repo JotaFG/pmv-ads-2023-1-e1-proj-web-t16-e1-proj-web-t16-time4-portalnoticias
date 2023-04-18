@@ -39,12 +39,16 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe escolheu o Scrum como base, para o processo de desenvolvimento do projeto. Sendo dividido da seguinte forma:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+ - **Scrum Master**: Wilian Pereira
+
+ - **Product Owner**: Pedro Batista
+
+ - **Equipe de Design**: Pedro Batista
+
+ - **Equipe de Desenvolvimento**: João Ricardo, Pedro Aguilar, Pablo Nunes, Luca Muller
+
 
 ### Processo
 
@@ -58,9 +62,9 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Foram utilizadas as seguintes ferramentas para desenvolvimento do projeto:
 
-- Editor de código.
+- Github. 
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (_wireframing_)
 
@@ -70,7 +74,7 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
 > - [Slack](https://slack.com/)
